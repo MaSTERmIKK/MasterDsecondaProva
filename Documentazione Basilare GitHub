@@ -1,0 +1,10 @@
+Fork:
+Un "fork" è una copia di un repository che ti appartiene. Il fork ti permette di sperimentare liberamente con le modifiche senza influenzare il progetto originale.
+E comunemente usato su piattaforme come GitHub per copiare il repository di un altro utente nel tuo account, permettendoti di apportare modifiche personali senza alterare il repository originale. Se le tue modifiche sono utili al progetto, puoi proporle all'autore originale del repository tramite una "pull request", che è una richiesta per integrare le tue modifiche nel progetto originale.
+
+Repository:
+Un repository, spesso abbreviato in "repo", è un contenitore di progetto che ospita tutti i file necessari al progetto stesso e traccia ogni modifica fatta a questi file. 
+Oltre al codice sorgente, un repository può includere documentazione, file di configurazione, e tutto ciò che è necessario per il progetto. Un repository git contiene inoltre tutta la storia delle modifiche, permettendo di tornare a qualsiasi stato precedente del progetto e di vedere chi ha apportato quali modifiche e quando.
+
+Issue:
+Un "issue" è un termine utilizzato principalmente su piattaforme di hosting di codice come GitHub, GitLab o Bitbucket per descrivere un bug, una richiesta di funzionalità, o qualsiasi altra attività o miglioramento proposto per il progetto. Gli issue fungono da sistema di tracciamento per le attività che devono essere completate, permettendo agli sviluppatori e ai collaboratori di discutere idee, segnalare problemi, assegnare compiti e tenere traccia del progresso del progetto. Gli issue possono essere etichettati, commentati, e assegnati a specifici membri del progetto per organizzare meglio il lavoro e le priorità.
