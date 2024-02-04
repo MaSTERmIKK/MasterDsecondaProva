@@ -1,2 +1,3 @@
 # MasterDsecondaProva
-Qui c'è la descrizione
+
+Questa repository verrà usata per spiegare le funzioni basilari di git hub
